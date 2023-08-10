@@ -1,6 +1,6 @@
 ## Selenium Test Automation Scenarios
 
-Below are descriptions of Selenium automated test files designed to test various functionalities of a web application.
+Below are descriptions of Selenium automated test files designed to test various functionalities of my pervious web technologies project "Hospital Management System".
 
 ---
 
