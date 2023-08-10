@@ -18,5 +18,3 @@ Below are descriptions of Selenium automated test files designed to test various
 
 5. **Automated_User_Registration_Test.java:**
    This Selenium automated test file is focused on automating the user registration process. It includes test cases that simulate the process of registering a new user account, providing necessary information, and verifying that the registration is successful. This suite ensures that new users can easily sign up for the application and that their registration details are accurately stored.
-
-Each of these test files plays a crucial role in ensuring the quality and reliability of a web application by automating various key user interactions and scenarios. The use of Selenium allows for efficient and consistent testing across different functionalities, helping to identify and address potential issues early in the development process.
